@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+<h1>How To Make A Solar Panel With Aluminum Foil</h1>
 
-You can use the [editor on GitHub](https://github.com/Tobanggado/how-to-make-a-solar-panel-with-aluminum-foil/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Tobanggado/how-to-make-a-solar-panel-with-aluminum-foil/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<div id="toc" style="background: #f9f9f9;border: 1px solid #aaa;display: table;margin-bottom: 1em;padding: 1em;width: 350px;"><p class="toctitle" style="font-weight: 700;text-align: center;">Content</p><ul class="toc_list"><li><a href="#toc-0">In Different Initiatives</a></li><li><a href="#toc-1">Supplies</a></li><li><a href="#toc-2">Concentrating Mild Onto A Photo Voltaic Panel</a></li><li><a href="#toc-3">A Flat Panel Solar Cell</a></li><li><a href="#toc-4">The Means To Set Up Window Field Planters</a></li><li><a href="#toc-7">Experiment Materials</a></li><li><a href="#toc-8">Explainer: Understanding Electrical Energy</a></li><li><a href="#toc-9">How Can We Improve The Effectivity Of Solar Cell?</a></li></ul></div>
+<p>Cut alongside three sides, leaving about an inch between the sides of the flap and the perimeters of the lid. Fold this flap out in order that it stands up when the box lid is closed. Line the underside of the pizza box with aluminum foil. Find out how photo voltaic ovens are being distributed in areas where there might be little fuel but plenty of sun. Note that I added further glue to kind a funnel at the top to allow the saltwater to be added.</p>
+<div itemScope itemProp="mainEntity" itemType="https://schema.org/Question">  <div itemProp="name"><h2>Is there a photo voltaic heater?</h2></div>  <div itemScope itemProp="acceptedAnswer" itemType="https://schema.org/Answer">      <div itemProp="text"><p>Solar air heaters are a little completely different than conventional area heaters. Instead of using pure gas, propane, or electrical energy to supply warmth, they use thermal power. This is completed by way of the use of solar collectors.</p></div>  </div></div>
+<p>Are you a pensioner and thinking about solar energy? You could additionally be eligible for a free three kilowatt photo voltaic system put in on your house. … A photo voltaic system might help you unlock long run savings on your family electricity bills by as much as $600 a year.</p>
+<h2 id="toc-0">In Other Tasks</h2>
+<p>Here, the absolute amount of power delivered by the lighting system on the photobioreactor floor was chosen. The brilliant aspect delivers 2% extra power than the matte facet. Indeed, despite its larger one hit reflectivity, the usage of the matte facet induces a better whole variety of reflection due to its propensity to diffuse scattering. Thus the matte side delivers a decrease energy onto the photobioreactor. Measure and cut a piece of aluminum foil giant enough to line the whole backside and two sides of the pizza field. Be positive to make use of the foil with the shiny facet out.</p>
+<div itemScope itemProp="mainEntity" itemType="https://schema.org/Question">  <div itemProp="name"><h2>How do you make faux photo voltaic panels?</h2></div>  <div itemScope itemProp="acceptedAnswer" itemType="https://schema.org/Answer">      <div itemProp="text"><p>Purchase a pre-cut rectangle of plexiglass. Place the rectangle on a work surface. Shake the can of black matt spray for 5 seconds. Spray the rectangle with the paint spray to alter the reflective qualities of the plexiglass so it will appear more like that of a photo voltaic panel.</p></div>  </div></div>
+<p>While most silicon solar cells have been rendered inert by the time the temperature reaches 100 levels Celsius, the PETE device does not hit peak effectivity till it's nicely over 200 C. All in all, shiny and matte sides of a household aluminum foil have the same whole reflectivity spectra. The matte one being, by a small amount – about 2% – extra reflective than its shiny counterpart. Remove the paper from about 20 crayons and seal them in a gallon-sized, zip-top plastic bag.</p>
+<h3 id="toc-1">Materials</h3>
+<p>When the sunlight hits the solar cell, the vitality excites electrons that go away behind holes. Solar cookers are bettering the standard of life for many individuals around the globe. Solar ovens have been introduced in elements of South America, Africa, and India.</p>
+<ul><li>Now, open the pizza field and tape a double layer of plastic wrap under the lid — the sun goes to permeate it to cook the meals.</li><li>On these days you presumably can easily cook meats, rice, baked potatoes, and frozen greens, however baking isn't recommended.</li><li>Solar panels are dangerous for the environment as a end result of toxic chemicals are used of their manufacture.</li><li>If you’re DIY-minded, you'll find a way to construct your own solar energy system.</li></ul>
+<p>AGES 5-8 SCIENCE JUNIOR Science Junior Launch new science, engineering, and math discoveries with hands-on activities and challenges. AGES 8+ SCIENCE EXPEDITIONS Science Expeditions Explore a model new science vacation spot each month with experiments, innovations, comedian books, and badges. No matter their passion, we’ve got you lined with our hand-picked collections. Ages 5-8 Science Junior Launch new science, engineering, and math discoveries with hands-on actions and challenges. Solve real scientific mysteries every month with our science subscription boxes.</p>
+<h3 id="toc-2">Concentrating Gentle Onto A Photo Voltaic Panel</h3>
+<p>They are manufactured from three completely different semiconductor alloys layered collectively. Sprayed onto a semiconductor wafer in a process called molecular-beam epitaxy—a bit like spray painting with individual elements—each layer is just a few microns thick. The layers seize totally different parts of the solar spectrum; gentle that gets through one layer is captured by the subsequent. So the engineers figured out the way to create a really skinny layer of silicon that would take up as many photons as a much thicker layer of the pricey materials. Specifically, rather than laying the silicon flat, they nanotextured the floor of the silicon in a way that created extra opportunities for mild particles to be absorbed. The twin discoveries started, the researchers say, after they began on the lookout for a solution to a well-known problem on the planet of photo voltaic cells.</p>
+<div style='text-align:center'><iframe width='568' height='310' src='https://www.youtube.com/embed/Es8IyJCirlw' frameborder='0' alt='how to make a solar panel with aluminum foil' allowfullscreen></iframe></div>
+<p>The band hole of a-Si is 1.7 eV and that of c-Si is 1.1 eV. The c-Si layer can take up red and infrared light. The best effectivity may be achieved at transition between a-Si and c-Si. As nanocrystalline silicon (nc-Si) has about the same bandgap as c-Si, nc-Si can substitute c-Si. Replace the latitude angle adjustment with an electrical actuator and the large old dish becomes a solar tracking power collector.</p>
+<h2 id="toc-3">A Flat Panel Photo Voltaic Cell</h2>
+<p>Draw a bead of silicone caulk across the front edges of your aluminum photo voltaic cell and along the front edge of every aluminum piece. Press a precut piece of plastic sheeting into place. Many hardware shops will cut the sheeting for you at no additional value. Other thin-film applied sciences which are still[when? His team didn’t have sufficient materials to build a whole greenhouse.</p>
+<div itemScope itemProp="mainEntity" itemType="https://schema.org/Question">  <div itemProp="name"><h2>What are the 3 kinds of photo voltaic panels?</h2></div>  <div itemScope itemProp="acceptedAnswer" itemType="https://schema.org/Answer">      <div itemProp="text"><p>What are the 3 Types of Solar Panels? The three different sorts of photo voltaic panels are monocrystalline, polycrystalline, and thin-film solar panels. Each of most of these solar cells is made in a novel means and has a unique aesthetic appearance.</p></div>  </div></div>
